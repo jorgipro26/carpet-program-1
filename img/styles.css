@@ -1,0 +1,11 @@
+body h1{
+    background-color: rgb(43, 204, 204);
+    text-align: center;
+    font-style: oblique;
+}
+
+
+
+.fondoAzul {
+    background-color: rgba(0, 0, 255, 0.384);
+}
